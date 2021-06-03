@@ -1,0 +1,117 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet type="text/css" href="http://www.textcreationpartnership.org/docs/code/pfs.css"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>A proposal tending to the advancement of learning by an unburdensome and practicable encouragement of the press.</title>
+         </titleStmt>
+         <extent>Approx. 6KB of XML-encoded text transcribed from 2 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2016-02">2016-02 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">B09797</idno><idno type="EEBO-CITATION">80923413</idno>
+  <idno type="VID">191967</idno>
+  <idno type="EEBO-PROQUEST">2240864254</idno>
+  
+            <idno type="OCLC"> 80923413</idno>
+            <idno type="STC">Wing P3710</idno>
+            <idno type="STC">ESTC R213793</idno>
+            <idno type="OCLC">80923413</idno>
+            <availability><p>This keyboarded and encoded edition of the work described above is co-owned by the
+    institutions providing financial support to the Early English Books Online Text Creation
+    Partnership. This text is available for reuse, according to the terms of <ref target="https://creativecommons.org/publicdomain/zero/1.0/"> Creative Commons 0 1.0 Universal
+    licence</ref>. The text can be copied, modified, distributed and performed, even for commercial
+    purposes, all without asking permission.</p></availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online text creation partnership.</title>
+         </seriesStmt>
+         <notesStmt><relatedItem type="facs" target="https://data.historicaltexts.jisc.ac.uk/view?pubId=eebo-e"/>
+            <note>(EEBO-TCP ; phase 2, no. B09797)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 191967)</note>
+            <note>Images scanned from microfilm: (Early English books; 1641-1700 ; 2896:39)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>A proposal tending to the advancement of learning by an unburdensome and practicable encouragement of the press.</title>
+               </titleStmt>
+               <extent>1 sheet ([2] p.).   </extent>
+               <publicationStmt>
+                  <publisher>s.n.,</publisher>
+                  <pubPlace>[Oxford :</pubPlace>
+                  <date>1675]</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Caption title.</note>
+                  <note>Place and date of publication suggested by Wing.</note>
+                  <note>Reproduction of original in the Bodleian Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,363 texts created during Phase 1 of the project have been released into the public domain as of 1 January 2015. Anyone can now take and use these texts for their own purposes, but we respectfully request that due credit and attribution is given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Full documentation of the original data capture process is available from the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.
+   All versions of the texts are now archived and freely available for download. See <ref target="https://textcreationpartnership.org/faq/#faq05">the TCP Download FAQ</ref>
+   for detailed information. The TEI P5 versions are also freely available from the <ref target="https://github.com/textcreationpartnership">TCP Github repository</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp" matchPattern="([0-9\-]+):([0-9IVX]+)" replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char" matchPattern="(.+)" replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term type="corporate_name">Oxford University Press --  History --  Early works to 1800.</term>
+               <term type="topical_term">Private presses --  England --  History --  Early works to 1800.</term>
+               <term type="genre_form">Broadsides --  England --  17th century.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2014-06 </date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images </change>
+         <change>
+            <date>2014-10 </date>
+            <label>Anne Simpson </label>Sampled and proofread </change>
+         <change>
+            <date>2014-10 </date>
+            <label>Anne Simpson</label>Text and markup reviewed and edited </change>
+         <change>
+            <date>2015-03 </date>
+            <label>pfs</label>Batch review (QC) and XML conversion </change>
+      <change><date>2021-05 </date><label>lb</label>TEI P5 conversion </change></revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <body>
+         <div type="proposal">
+            <pb facs="tcp:191967:1"/>
+            <head>A Proposal tending to the advancement of Learning by an unburdensome and practicable encourage<g ref="char:EOLhyphen"/>ment of the Press.</head>
+            <p>WHEREAS several Persons eminent for their Learning and Condition, have frequently and earnestly desired the Undertakers for the Press in <hi>Oxford</hi> to set upon the Edition of the Greek and Latin Fathers, and other Classical Books, in History, Philology, Mathematics &amp;c. which are some of them out of Print, or sold at great rates; and some unfaithfully or negligently put out, of which thing the Specimen begun by Dr <hi>James</hi> as to what concerns the Fathers is a sufficient proof, and of what emprovements even in the Text, Classical books are capable, the late edition of <hi>Archimedes</hi> his <hi>Arenarius,</hi> and other Greek and Latin Authors in this place (if others were wanting) are a competent evidence: the said Undertakers have endeavoured to justifie their readiness to serve the public, and answer the desires of the friends of Learning, to the utmost herein; and to that end have furnisht themselves with Types and Letters of all kinds, and whatsoever is necessary to the uses of an Imprimery: and also with no smal charge and pains have made preparation by them<g ref="char:EOLhyphen"/>selves and friends for several considerable works, such as <hi>Annotations</hi> on all the Books of the <hi>Holy Scrip<g ref="char:EOLhyphen"/>tures.</hi> The <hi>Coptic Gospels</hi> and <hi>Liturgies.</hi> The ancient <hi>Saxon Homilies</hi> and <hi>Liturgie.</hi> The old Latin Writers of the <hi>English History</hi> hitherto not extant. The Life of King <hi>Alfred,</hi> giving a full account of the expul<g ref="char:EOLhyphen"/>sion of the Danes, and establishment of the Saxon Monarchy. A Geographical, Philosophical, and Historical survey of the County of <hi>Oxford. Johannes Antiochenus.</hi> The <hi>Greek Mathematicians. Josephus</hi> and others. But having not the advantage by Trade and Exchange to dispose of their Books when Printed; and Booksellers thinking it not to be their interest to preferr and forward the Sale of any Book, beside their own and fellow Traders; no Edition of the said Undertakers, of a just Volume, or large Book will ever be sold by them; and consequently it will be impossible to support the charge of such an attemt and carry it on with vigor and success.</p>
+            <p>To all which it has bin replied by diverse of the before mentioned favorers of the concerns of Learn<g ref="char:EOLhyphen"/>ing, That in this Nation there are certainly five hundred of the Nobility, Gentry, Lawiers, Physicians, and Clergy, who would alwaies be gratified by a fair and accurate Edition of any solid Classical Book, whether Oriental, Greek, Latin, or Modern; and would not fail to be buyers of it, which would com<g ref="char:EOLhyphen"/>petently secure the charge of an Impression; so that nothing but the want of proposal and correspon<g ref="char:EOLhyphen"/>dence, hinders the progress of so useful and honourable a designe; which without hazard or burthen to any Person, would in a short time fix in our Nation the manufacture of Printing in its perfection, with the consequential advantages of Trade; and restore to the world those Monuments of Antiquity, whereof some are in hazard to be lost; others not likely to be reprinted, unless happily in little Forms and Letters, which visibly is the fate of the Greek and Latine Historians, and other Classical Books at this time.</p>
+            <p>The aforesaid Undertakers for the Press upon consideration of the premises, to satisfie the desires of those Worthy Persons who have exprest their concern in this affair; and also to Vindicate themselves from being wanting to their Trust, and the interests of Learning, do hereby publickly declare; That whatever Book shall be desired to be publisht, of whatsoever Subject or Language, upon the assurance that when tis finisht 500 Copies will be taken off, shall be Printed on such Paper and Letter, and with such collation of Copies, review and translation of the Text, illustration by Notes, and diligent Corre<g ref="char:EOLhyphen"/>ction of the Press, as shall be satisfactory to any judicious Reader; and then be set at a reasonable and equal price, printed with the Book.</p>
+            <p>And whereas the design of Dr <hi>James</hi> is particularly recommended to the said Undertakers, that after a diligent collation of the Text, with those many excellent MS. Copies wherewith they are furnisht, and also the several printed Editions, they would begin with St <hi>Cyprian</hi> for the Latin Fathers; and for the Greek in one fair Volume Greek and Latin with <hi>S. Clement, Ignatius, Polycarp, Athenagoras, Tatian, Justin M.</hi> they hereby signifie their ready assent herein; and so soon as they shall understand that the aforesaid Books, or either of them, or any other will be acceptable to the before mentioned
+<pb facs="tcp:191967:2"/>number of Persons, will without delay set upon the Work, and will afterward go on to such Authors from time to time, as shall desired, and esteemed useful for the Interest of Learning, and the Honor of the Nation. To which end the present proposal is printed, and all persons that approve thereof and will be concerned therein, are desired to signify their pleasures at the foot of the said proposal.</p>
+         </div>
+      </body>
+   </text>
+</TEI>
